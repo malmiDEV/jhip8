@@ -1,0 +1,25 @@
+#myCanvas {
+   width: 64px;
+   height: 32px;
+   border: 5px solid #fff;
+   background: linear-gradient(to right, #000000, #000000);
+   display: block;
+   margin: 20px auto;
+   image-rendering: pixelated;
+}
+
+body {
+   background-color: #000000;
+}
+
+h1 {
+   color: #ffffff;
+}
+
+label {
+   color: #ffffff;
+}
+
+p {
+   color: #ffffff;
+}
